@@ -4,7 +4,7 @@ A desktop flashcard application built in Python as part of the SOFT060
 Software Development and Data Science Project module at the 
 University of Plymouth (Academic Year 2025/2026).
 
----
+
 
 ## What is Rozoom?
 
@@ -15,7 +15,7 @@ with cybersecurity students in mind but works for any subject area.
 There is no internet connection required, no account needed, and no 
 data ever leaves your machine.
 
----
+
 
 ## Features
 
@@ -28,7 +28,7 @@ data ever leaves your machine.
 - Scrollable manage screen for large card sets
 - Data saved locally in a JSON file between sessions
 
----
+
 
 ## How to Run
 
