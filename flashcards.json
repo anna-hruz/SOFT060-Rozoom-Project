@@ -1,0 +1,62 @@
+[
+    {
+        "category": "Cybersecurity",
+        "question": "What does 'A' in CIA Triad stands for?",
+        "answer": "Availability"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What does VPN stands for",
+        "answer": "Virtual Private Network"
+    },
+    {
+        "category": "AI",
+        "question": "A method where a computer learns from examples without being explicitly programmed",
+        "answer": "Machine Learning"
+    },
+    {
+        "category": "AI",
+        "question": "A process where a neural network is trained on a large dataset first and then fine-tuned for a specific task",
+        "answer": "Transfer Learning"
+    },
+    {
+        "category": "AI",
+        "question": "What does LLM stand for?",
+        "answer": "Large Language Model"
+    },
+    {
+        "category": "AI",
+        "question": "What does GAN stand for?",
+        "answer": "Generative Adversarial Network"
+    },
+    {
+        "category": "AI",
+        "question": "What does RNN stand for?",
+        "answer": "Recurrent Neural Network"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A copy of computer data, usually stored in the cloud or on removable media, that can be used to recover from data loss or theft.",
+        "answer": "Backup"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A distributed network of infected devices on the internet, used to commit co-ordinated cyber attacks without their owner's knowledge.",
+        "answer": "Botnet"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "An attack that uses computing power to automatically enter a large number of guesses for security credentials in an attempt to gain unauthorised access.",
+        "answer": "Brute Force Attack"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "What does BYOD stands for?",
+        "answer": "Bring your own device"
+    },
+    {
+        "category": "Cybersecurity",
+        "question": "A software- or hardware-based device that accepts and responds to requests made over a network",
+        "answer": "Server"
+    }
+]
