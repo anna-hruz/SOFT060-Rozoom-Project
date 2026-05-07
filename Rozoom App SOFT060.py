@@ -1,3 +1,12 @@
+# Rozoom — Flashcard Desktop Application
+# Author: Anna Hruzinova
+# Module: SOFT060 — Software Development and Data Science Project
+# University: University of Plymouth
+# Date Created: March 2026
+# Last Modified: May 2026
+# Description: A desktop flashcard quiz application built using Python and tkinter.
+#              Allows users to study categorised flashcards through active recall,
+#              add their own cards, and manage existing content.
 import tkinter as tk
 # tkinter is a free GUI toolkit built into Python, we use it to make windows and buttons
 
